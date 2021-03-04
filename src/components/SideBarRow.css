@@ -1,0 +1,17 @@
+.sideBarRow{
+    display: flex;
+    align-items: center;
+    padding:10px 15px;
+}
+.sideBarRow>h4{
+    margin-left: 10px;
+}
+.sideBarRow:hover{
+    background:rgb(235, 235, 235);
+    cursor:pointer;
+}
+
+.sideBarRow>.MuiSvgIcon-root{
+    font-size:xx-large;
+    color: dodgerblue;
+}
